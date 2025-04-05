@@ -31,6 +31,3 @@ Here are some ideas to get you started:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=duduardo45s&radius=16&theme=default&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/duduardo45/count.svg?"  />
-</div>
