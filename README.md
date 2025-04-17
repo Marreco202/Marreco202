@@ -2,8 +2,8 @@
 
 I`m João, and i am a undergraduate Computer Engineer @ PUC-Rio, working as Product Owner and Software Developer at ExACTa
 
-- 🔭 I’m currently working on AI mixed solutions
-- 🌱 I’m currently learning Software Architectureß
+- 🔭 I’m currently working on AI mixed solutions and tools for improving open-source development
+- 🌱 I’m currently learning Software Architecture
 
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: () -->
