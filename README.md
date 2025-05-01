@@ -4,7 +4,7 @@ I`m João, and i am a undergraduate Computer Engineer @ PUC-Rio, working as Prod
 
 - 🔭 I’m currently working on AI mixed solutions and tools for improving open-source development
 - 🌱 I’m currently learning Software Architecture
-
+- 📫 Connect with me : <a href=https://www.linkedin.com/in/jo%C3%A3o-victor-godinho-woitschach-0a943b206/> LinkedIn</a>
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: () -->
 
@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+📫 Connect with me
+LinkedIn
+
 -->
 
 
